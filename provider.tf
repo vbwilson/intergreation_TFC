@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "example-org-ab72d9" # 테라폼 클라우드 ORG를 설정하세요.
+    organization = "vbwilson-org" # 테라폼 클라우드 ORG를 설정하세요.
     hostname     = "app.terraform.io"
 
     workspaces {
